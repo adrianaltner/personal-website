@@ -2,9 +2,6 @@
 layout: ../layouts/UsesLayout.astro
 title: "Uses"
 ---
-
-
-
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by
 default and additional color schemes can also be configured.
 
@@ -14,29 +11,18 @@ This theme is self-documented \_ which means articles/posts in this theme can al
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## Hardware
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+## Software
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
-
-
-[Ghost Asket Advanced](https://www.ghost-bikes.com/int-en/asket-advanced/) gravel bike
-
-[Fujifilm X-T3](https://dl.fujifilm-x.com/global/products/cameras/x-t3/pdf/x_t3_catalogue_01.pdf) camera with a lot of lenses: 
- - Fujinon XF35mmF2 R WR
+## Photography
+- Cameras
+  - [Fujifilm X-T3](https://dl.fujifilm-x.com/global/products/cameras/x-t3/pdf/x_t3_catalogue_01.pdf)
+  - [Fujifilm X-T3](https://dl.fujifilm-x.com/global/products/cameras/x-t3/pdf/x_t3_catalogue_01.pdf) 
+  - [Fujifilm X-T3](https://dl.fujifilm-x.com/global/products/cameras/x-t3/pdf/x_t3_catalogue_01.pdf) 
+- Lenses
+  - Fujinon XF35mmF2 R WR
+  - Fujinon XF35mmF2 R WR
+  - Fujinon XF35mmF2 R WR
+## Other
+- [Ghost Asket Advanced](https://www.ghost-bikes.com/int-en/asket-advanced/) gravel bike
